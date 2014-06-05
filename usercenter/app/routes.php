@@ -11,6 +11,8 @@
 |
 */
 
-Route::get('/login', 'UserController@login');
+Route::get('/user_login', 'UserController@login');
 
-Route::get('/register', 'UserController@register');
+Route::get('/user_register', 'UserController@register');
+
+Route::get('/user_sync', 'UserController@sync');
