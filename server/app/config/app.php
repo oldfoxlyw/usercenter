@@ -105,7 +105,7 @@ return array(
 		'Illuminate\Database\DatabaseServiceProvider',
 		'Illuminate\Encryption\EncryptionServiceProvider',
 		'Illuminate\Filesystem\FilesystemServiceProvider',
-		'Illuminate\Hashing\HashServiceProvider',
+		'Illuminate\Hashing\UniversalHashProvider',
 		'Illuminate\Html\HtmlServiceProvider',
 		'Illuminate\Log\LogServiceProvider',
 		'Illuminate\Mail\MailServiceProvider',

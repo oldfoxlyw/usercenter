@@ -55,7 +55,7 @@ return array(
 		'accountdb' => array(
 			'driver'    => 'mysql',
 			'host'      => 'localhost',
-			'database'  => 'usercenter_platform_db',
+			'database'  => 'profzone_accountdb',
 			'username'  => 'root',
 			'password'  => '84@41%%wi96^4',
 			'charset'   => 'utf8',
